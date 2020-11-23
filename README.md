@@ -1,24 +1,27 @@
-# README
+#Online Shopping
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1) Seller
+2) Buyer
+3) Admin
 
-Things you may want to cover:
+Seller can:
+- upload their products.
+- Add up to 3 images for each product.
+- Publish his product for admin review.
 
-* Ruby version
+Admin can:
+- manage all users
+- manage all products
+- View / Approve the added / updated products by seller
 
-* System dependencies
+Buyer can:
+- See all approved products.
+- See individual product page.
+- Add products to Cart page.
+- Mark any products as favorite product.
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#Note
+1) Sometimes dropdown on products might not open. So, try to hard refresh the page, it will work after that.
+2) For product image try to upload small size images.
